@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBase/SpringBase.iml" filepath="$PROJECT_DIR$/SpringBase/SpringBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceshi.iml" filepath="$PROJECT_DIR$/ceshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础/java基础.iml" filepath="$PROJECT_DIR$/java基础/java基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础_IO/java基础_IO.iml" filepath="$PROJECT_DIR$/java基础_IO/java基础_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础_异常/java基础_异常.iml" filepath="$PROJECT_DIR$/java基础_异常/java基础_异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础_流程控制/java基础_流程控制.iml" filepath="$PROJECT_DIR$/java基础_流程控制/java基础_流程控制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础_运算符/java基础_运算符.iml" filepath="$PROJECT_DIR$/java基础_运算符/java基础_运算符.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础_面向对象代码执行顺序/java基础_面向对象代码执行顺序.iml" filepath="$PROJECT_DIR$/java基础_面向对象代码执行顺序/java基础_面向对象代码执行顺序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础反射/java基础反射.iml" filepath="$PROJECT_DIR$/java基础反射/java基础反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程JUC线程休眠/多线程JUC线程休眠.iml" filepath="$PROJECT_DIR$/多线程JUC线程休眠/多线程JUC线程休眠.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程实现买票功能/多线程实现买票功能.iml" filepath="$PROJECT_DIR$/多线程实现买票功能/多线程实现买票功能.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程对集合进行修改/多线程对集合进行修改.iml" filepath="$PROJECT_DIR$/多线程对集合进行修改/多线程对集合进行修改.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程死锁/多线程死锁.iml" filepath="$PROJECT_DIR$/多线程死锁/多线程死锁.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程的实现方式/多线程的实现方式.iml" filepath="$PROJECT_DIR$/多线程的实现方式/多线程的实现方式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程线程同步/多线程线程同步.iml" filepath="$PROJECT_DIR$/多线程线程同步/多线程线程同步.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程访问量统计/多线程访问量统计.iml" filepath="$PROJECT_DIR$/多线程访问量统计/多线程访问量统计.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程重入锁的限时性/多线程重入锁的限时性.iml" filepath="$PROJECT_DIR$/多线程重入锁的限时性/多线程重入锁的限时性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程银行限流办业务/多线程银行限流办业务.iml" filepath="$PROJECT_DIR$/多线程银行限流办业务/多线程银行限流办业务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库_Mybatis_uushop/数据库Mybatis_uushop.iml" filepath="$PROJECT_DIR$/数据库_Mybatis_uushop/数据库Mybatis_uushop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库_JDBC/数据库_JDBC.iml" filepath="$PROJECT_DIR$/数据库_JDBC/数据库_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/数据库_Mybatis.iml" filepath="$PROJECT_DIR$/mybatis/数据库_Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis_uushop/数据库_Mybatis_uushop.iml" filepath="$PROJECT_DIR$/Mybatis_uushop/数据库_Mybatis_uushop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java基础/数据类型转换/数据类型转换.iml" filepath="$PROJECT_DIR$/java基础/数据类型转换/数据类型转换.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据类型转换1/数据类型转换1.iml" filepath="$PROJECT_DIR$/数据类型转换1/数据类型转换1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/线程安全下的单例模式/线程安全下的单例模式.iml" filepath="$PROJECT_DIR$/线程安全下的单例模式/线程安全下的单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络编程_Servlet/网络编程servlet.iml" filepath="$PROJECT_DIR$/网络编程_Servlet/网络编程servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络编程聊天/网络编程聊天.iml" filepath="$PROJECT_DIR$/网络编程聊天/网络编程聊天.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式_代理模式/设计模式_代理模式.iml" filepath="$PROJECT_DIR$/设计模式_代理模式/设计模式_代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式_单例模式/设计模式_单例模式.iml" filepath="$PROJECT_DIR$/设计模式_单例模式/设计模式_单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式_工厂模式/设计模式_工厂模式.iml" filepath="$PROJECT_DIR$/设计模式_工厂模式/设计模式_工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/贪吃蛇/贪吃蛇.iml" filepath="$PROJECT_DIR$/贪吃蛇/贪吃蛇.iml" />
+      <module fileurl="file://$PROJECT_DIR$/银行网点工作模拟/银行网点工作模拟.iml" filepath="$PROJECT_DIR$/银行网点工作模拟/银行网点工作模拟.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合网点客户队列/集合网点客户队列.iml" filepath="$PROJECT_DIR$/集合网点客户队列/集合网点客户队列.iml" />
+    </modules>
+  </component>
+</project>

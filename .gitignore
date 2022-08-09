@@ -1,0 +1,5 @@
+# 项目排除路径
+/out/
+/SpringBase/target/
+/数据库Mybatis_uushop/target/
+/网络编程Servlet/target/
